@@ -274,7 +274,7 @@ footer img{
   }
 } */
 
-@media (max-width: 440px) {
+@media (max-width: 600px) {
   .container {
     min-height: 80vh;
   }
